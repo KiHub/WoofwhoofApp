@@ -2,16 +2,16 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:meow.m4a">
+      location = "group:/Users/ki/Documents/App Brew/Woofwhoof/Woofwhoof/meow.m4a">
    </FileRef>
    <FileRef
-      location = "group:moo.m4a">
+      location = "group:/Users/ki/Documents/App Brew/Woofwhoof/Woofwhoof/moo.m4a">
    </FileRef>
    <FileRef
-      location = "group:SimpleSound.swift">
+      location = "group:/Users/ki/Documents/App Brew/Woofwhoof/Woofwhoof/SimpleSound.swift">
    </FileRef>
    <FileRef
-      location = "group:woof.m4a">
+      location = "group:/Users/ki/Documents/App Brew/Woofwhoof/Woofwhoof/woof.m4a">
    </FileRef>
    <FileRef
       location = "container:">
